@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.24m added, 98.2k removed
+                                    8.25m added, 100k removed
                                 </div>
                             </section>
                             <section>
@@ -296,18 +296,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.12mb of code in 954 edited files across 163 commits over last 14 days</small>
+                <small>estimation from 359kb of code in 845 edited files across 161 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.0298029655625" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="385.0298029655625" y="0" width="26.405159596554913" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="411.4349625621174" y="0" width="24.091511847515974" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="435.52647440963335" y="0" width="10.68406177585491" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="446.21053618548825" y="0" width="10.449924320559358" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.6604605060476" y="0" width="3.339539493952342" height="8" fill="#E3F171"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.3651850141027" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="402.3651850141027" y="0" width="25.17619557533892" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="427.5413805894416" y="0" width="11.165095429063348" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="438.7064760185049" y="0" width="10.92041629047949" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.6268923089844" y="0" width="6.8832105038458575" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="456.51010281283027" y="0" width="3.4898971871697424" height="8" fill="#E3F171"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -321,20 +321,7 @@
                             <small>
                                 <div>4.66k lines</div>
                                 <div>124 kB</div>
-                                <div>83.7%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#945db7" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Visual Basic .NET
-                            </div>
-                            <small>
-                                <div>158 lines</div>
-                                <div>8.57 kB</div>
-                                <div>5.74%</div>
+                                <div>87.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +334,7 @@
                             <small>
                                 <div>267 lines</div>
                                 <div>7.82 kB</div>
-                                <div>5.24%</div>
+                                <div>5.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -360,7 +347,7 @@
                             <small>
                                 <div>124 lines</div>
                                 <div>3.47 kB</div>
-                                <div>2.32%</div>
+                                <div>2.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -373,7 +360,20 @@
                             <small>
                                 <div>67 lines</div>
                                 <div>3.39 kB</div>
-                                <div>2.27%</div>
+                                <div>2.37%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#945db7" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Visual Basic .NET
+                            </div>
+                            <small>
+                                <div>39 lines</div>
+                                <div>2.14 kB</div>
+                                <div>1.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,7 +386,7 @@
                             <small>
                                 <div>28 lines</div>
                                 <div>1.08 kB</div>
-                                <div>0.73%</div>
+                                <div>0.76%</div>
                             </small>
                         </div>
                     </section>
@@ -435,7 +435,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 77 commits)</small>
+                    <small class="h-details">(computed from last 76 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -559,8 +559,8 @@
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -575,8 +575,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 0.9090909090909091px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -3364,7 +3364,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2023, 22:07:32 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 May 2023, 23:13:03 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
