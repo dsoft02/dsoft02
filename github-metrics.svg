@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2899" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2892" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    19.8m added, 260k removed
+                                    12.9m added, 252k removed
                                 </div>
                             </section>
                             <section>
@@ -296,36 +296,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.72mb of code in 612 edited files across 26 commits over last 14 days</small>
+                <small>estimation from 1.36mb of code in 420 edited files across 26 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.77617553662" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="391.77617553662" y="0" width="32.89268873177592" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="424.6688642683959" y="0" width="15.544001883658623" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.2128661520545" y="0" width="6.694020020236603" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="446.90688617229114" y="0" width="6.602541666401512" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.5094278386927" y="0" width="3.5252098433890584" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.0346376820817" y="0" width="1.588064222577176" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="458.62270190465887" y="0" width="1.377298095341127" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.4573172120136" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="333.4573172120136" y="0" width="55.61855317986201" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="389.0758703918756" y="0" width="52.59671653346085" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="441.6725869253364" y="0" width="12.613680351572285" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="454.2862672769087" y="0" width="4.928159938064986" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.2144272149737" y="0" width="0.7855727850262997" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dart
-                            </div>
-                            <small>
-                                <div>12.5k lines</div>
-                                <div>535 kB</div>
-                                <div>85.17%</div>
-                            </small>
-                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -334,9 +319,9 @@
                                 Visual Basic .NET
                             </div>
                             <small>
-                                <div>1.11k lines</div>
-                                <div>44.9 kB</div>
-                                <div>7.15%</div>
+                                <div>2.86k lines</div>
+                                <div>127 kB</div>
+                                <div>72.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -349,33 +334,20 @@
                             <small>
                                 <div>565 lines</div>
                                 <div>21.2 kB</div>
-                                <div>3.38%</div>
+                                <div>12.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                Dart
                             </div>
                             <small>
-                                <div>201 lines</div>
-                                <div>9.15 kB</div>
-                                <div>1.46%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Limbo
-                            </div>
-                            <small>
-                                <div>225 lines</div>
-                                <div>9.02 kB</div>
-                                <div>1.44%</div>
+                                <div>686 lines</div>
+                                <div>20 kB</div>
+                                <div>11.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -388,20 +360,7 @@
                             <small>
                                 <div>137 lines</div>
                                 <div>4.82 kB</div>
-                                <div>0.77%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Swift
-                            </div>
-                            <small>
-                                <div>54 lines</div>
-                                <div>2.17 kB</div>
-                                <div>0.35%</div>
+                                <div>2.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -414,7 +373,20 @@
                             <small>
                                 <div>42 lines</div>
                                 <div>1.88 kB</div>
-                                <div>0.3%</div>
+                                <div>1.07%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Shell
+                            </div>
+                            <small>
+                                <div>4 lines</div>
+                                <div>300 bytes</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
@@ -2681,6 +2653,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">dsoft02/Automated-Result-Compiler</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">version_2.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d7e0600</div>
+                                        <div class="message">update version 2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">dsoft02/arcaride</span>
                                     </div>
                                 </div>
@@ -2743,22 +2735,6 @@
                                         Created new
                       branch
                                         <span class="code">version_2.0</span>
-                                        in
-                                        <span class="repo">dsoft02/Automated-Result-Compiler</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">version_1.0</span>
                                         in
                                         <span class="repo">dsoft02/Automated-Result-Compiler</span>
                                     </div>
@@ -3364,7 +3340,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.79m out of 49.4m repositories</span>
+                                    <span class="gh">ranked 5.01m out of 54.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3416,7 +3392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2023, 07:10:15 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2023, 08:07:31 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
