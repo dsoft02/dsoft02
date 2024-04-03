@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    7.91m added, 35k removed
+                                    3.60m added, 1.14m removed
                                 </div>
                             </section>
                             <section>
@@ -296,17 +296,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.25mb of code in 631 edited files across 34 commits over last 14 days</small>
+                <small>estimation from 1.28mb of code in 644 edited files across 34 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.94568322809465" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="288.94568322809465" y="0" width="124.45165905229858" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="413.3973422803932" y="0" width="37.37280882897689" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.7701511093701" y="0" width="7.991041585945849" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.76119269531597" y="0" width="1.2388073046840073" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.67059137701517" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="298.67059137701517" y="0" width="117.37624010874607" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="416.04683148576123" y="0" width="35.248061906549864" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.2948933923111" y="0" width="7.536728903845266" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.83162229615635" y="0" width="1.1683777038436596" height="8" fill="#c1d026"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -318,9 +318,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>6.09k lines</div>
-                                <div>295 kB</div>
-                                <div>62.81%</div>
+                                <div>6.72k lines</div>
+                                <div>323 kB</div>
+                                <div>64.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -333,7 +333,7 @@
                             <small>
                                 <div>3.89k lines</div>
                                 <div>127 kB</div>
-                                <div>27.05%</div>
+                                <div>25.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -346,7 +346,7 @@
                             <small>
                                 <div>390 lines</div>
                                 <div>38.1 kB</div>
-                                <div>8.12%</div>
+                                <div>7.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -359,7 +359,7 @@
                             <small>
                                 <div>204 lines</div>
                                 <div>8.16 kB</div>
-                                <div>1.74%</div>
+                                <div>1.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -372,7 +372,7 @@
                             <small>
                                 <div>28 lines</div>
                                 <div>1.26 kB</div>
-                                <div>0.27%</div>
+                                <div>0.25%</div>
                             </small>
                         </div>
                     </section>
@@ -2675,6 +2675,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Zercom-Tech-Team/tagerine365-enterprise</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mssql-dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3675ede</div>
+                                        <div class="message">Merge branch 'mssql-dev' of github.com:Zercom-Tech-Team/tagerine365-enterprise into mssql-dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Zercom-Tech-Team/tagerine365-enterprise</span>
                                     </div>
@@ -2744,26 +2764,6 @@
                                     <div class="commit">
                                         <div class="sha">#297b1be</div>
                                         <div class="message">create of incomplete profile users list with reminder</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Zercom-Tech-Team/tagerine365-enterprise</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mssql-dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bf32148</div>
-                                        <div class="message">updated htmlpage.php</div>
                                     </div>
                                 </div>
                             </section>
@@ -2884,7 +2884,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7899999999999996 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.8933333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2906,7 +2906,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1027 times</div>
+                                <div class="text">Repositories have been deployed 1028 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3367,7 +3367,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 53.8m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 74.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3419,7 +3419,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2024, 11:10:27 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 12:07:58 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
