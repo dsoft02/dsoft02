@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    12.5m added, 250k removed
+                                    23.8m added, 1.39m removed
                                 </div>
                             </section>
                             <section>
@@ -296,18 +296,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.02mb of code in 375 edited files across 96 commits over last 14 days</small>
+                <small>estimation from 1mb of code in 364 edited files across 94 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="243.12491669093944" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="243.12491669093944" y="0" width="100.22808169471611" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="343.3529983856555" y="0" width="81.51096717499593" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="424.8639655606515" y="0" width="27.146855977764503" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.010821538416" y="0" width="7.7166652678972545" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="459.7274868063132" y="0" width="0.2725131936867777" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.97756516845308" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="244.97756516845308" y="0" width="94.5311708577422" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="339.50873602619527" y="0" width="84.47356168939142" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="423.98229771558664" y="0" width="28.093525363894503" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.07582307948115" y="0" width="7.641758972653553" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="459.71758205213473" y="0" width="0.2824179478652375" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -319,9 +319,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>4.52k lines</div>
-                                <div>214 kB</div>
-                                <div>52.85%</div>
+                                <div>4.40k lines</div>
+                                <div>208 kB</div>
+                                <div>53.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,9 +332,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>2.39k lines</div>
-                                <div>88.2 kB</div>
-                                <div>21.79%</div>
+                                <div>2.23k lines</div>
+                                <div>80.3 kB</div>
+                                <div>20.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +347,7 @@
                             <small>
                                 <div>23 lines</div>
                                 <div>71.7 kB</div>
-                                <div>17.72%</div>
+                                <div>18.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -359,8 +359,8 @@
                             </div>
                             <small>
                                 <div>1.02k lines</div>
-                                <div>23.9 kB</div>
-                                <div>5.9%</div>
+                                <div>23.8 kB</div>
+                                <div>6.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -371,9 +371,9 @@
                                 Twig
                             </div>
                             <small>
-                                <div>211 lines</div>
-                                <div>6.80 kB</div>
-                                <div>1.68%</div>
+                                <div>204 lines</div>
+                                <div>6.49 kB</div>
+                                <div>1.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,6 +415,14 @@
                     <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@Zercom-Tech-Team</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
+                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="60.5734747545582 329"/>
+                            <text x="15" y="15" dominant-baseline="central">164</text>
+                        </svg>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                        </svg>
                     </div>
                 </div>
             </section>
@@ -490,7 +498,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 42 commits)</small>
+                    <small class="h-details">(computed from last 41 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -556,8 +564,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -647,8 +655,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">7</span>
-                                <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -673,32 +681,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 16.815544235751233%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.58153202530045%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 6.932196684490614%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 6.398429325105609%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 5.637642134279406%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.7176707894891425%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.8775910086416856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.9015361272151086%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Twig</span>
-                                <div class="bar" style="width: 0.5337171028412622%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5172394910838115%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.018848161371674943%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01911571879582919%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2947,7 +2955,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.88333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="104.98666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2969,7 +2977,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2015 times</div>
+                                <div class="text">Repositories have been deployed 2016 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3430,7 +3438,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.25m out of 197m repositories</span>
+                                    <span class="gh">ranked 5.25m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3482,7 +3490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2024, 09:12:47 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 10:12:01 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
