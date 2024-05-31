@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3162" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27m added, 1.39m removed
+                                    11.6m added, 1.36m removed
                                 </div>
                             </section>
                             <section>
@@ -296,20 +296,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.50mb of code in 1607 edited files across 121 commits over last 10 days</small>
+                <small>estimation from 2.79mb of code in 1688 edited files across 125 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.02321180577584" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="136.02321180577584" y="0" width="92.28812542026505" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="228.31133722604088" y="0" width="87.01630116010232" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="315.3276383861432" y="0" width="58.2957904691451" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="373.6234288552883" y="0" width="33.526342139909104" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="407.1497709951974" y="0" width="27.859007603564528" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="435.008778598762" y="0" width="23.546553899815645" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="458.55533249857757" y="0" width="1.4446675014224355" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="126.13481342179354" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="126.13481342179354" y="0" width="105.70917637348764" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="231.84398979528115" y="0" width="85.57911055323224" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="317.42310034851334" y="0" width="57.73130530082472" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="375.15440564933806" y="0" width="31.08909762085976" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="406.24350327019783" y="0" width="30.582047260626673" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="436.8255505308245" y="0" width="21.83480410034942" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="458.6603546311739" y="0" width="1.339645368826014" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -323,7 +323,20 @@
                             <small>
                                 <div>12.5k lines</div>
                                 <div>302 kB</div>
-                                <div>29.57%</div>
+                                <div>27.42%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                PHP
+                            </div>
+                            <small>
+                                <div>9.04k lines</div>
+                                <div>253 kB</div>
+                                <div>22.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -336,20 +349,7 @@
                             <small>
                                 <div>6.46k lines</div>
                                 <div>205 kB</div>
-                                <div>20.06%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                PHP
-                            </div>
-                            <small>
-                                <div>6.51k lines</div>
-                                <div>193 kB</div>
-                                <div>18.92%</div>
+                                <div>18.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -360,9 +360,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>3.54k lines</div>
-                                <div>129 kB</div>
-                                <div>12.67%</div>
+                                <div>3.78k lines</div>
+                                <div>138 kB</div>
+                                <div>12.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -375,7 +375,7 @@
                             <small>
                                 <div>842 lines</div>
                                 <div>74.6 kB</div>
-                                <div>7.29%</div>
+                                <div>6.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,9 +386,9 @@
                                 Blade
                             </div>
                             <small>
-                                <div>833 lines</div>
-                                <div>62 kB</div>
-                                <div>6.06%</div>
+                                <div>1.11k lines</div>
+                                <div>73.4 kB</div>
+                                <div>6.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -401,7 +401,7 @@
                             <small>
                                 <div>1.33k lines</div>
                                 <div>52.4 kB</div>
-                                <div>5.12%</div>
+                                <div>4.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -414,7 +414,7 @@
                             <small>
                                 <div>77 lines</div>
                                 <div>3.22 kB</div>
-                                <div>0.31%</div>
+                                <div>0.29%</div>
                             </small>
                         </div>
                     </section>
@@ -445,8 +445,8 @@
                         <span class="name">@Zercom-Tech-Team</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="66.7364567891534 329"/>
-                            <text x="15" y="15" dominant-baseline="central">296</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="59.76226324076629 329"/>
+                            <text x="15" y="15" dominant-baseline="central">273</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -526,7 +526,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 46 commits)</small>
+                    <small class="h-details">(computed from last 48 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -562,8 +562,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -693,8 +693,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 45.45454545454545px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -709,42 +709,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 9.709971049581847%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 6.587956674118919%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 8.675063758391664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 6.211629279219913%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 7.270267581246765%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 5.885799647977805%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 4.16142532037942%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.9705354989116515%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.3932666142431893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.1381876797958013%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 1.9887058518140779%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.1033147205832776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Twig</span>
-                                <div class="bar" style="width: 1.680862800174816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.501713227173136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSQL</span>
-                                <div class="bar" style="width: 0.10312710182960073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.09213561801798191%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2807,6 +2807,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4942d27</div>
+                                        <div class="message">update the migrations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dsoft02/TrustPalHub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ea3874</div>
+                                        <div class="message">created the database migration, model and controllers</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">dsoft02/TrustPalHub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e394939</div>
                                         <div class="message">added static files</div>
                                     </div>
@@ -2847,116 +2887,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/wema-mssql</span></div>
                                     <div>12 files changed <span class="code">++146 --16</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">Zercom-Tech-Team/wema-mssql</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mssql-dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#df9e5ab</div>
-                                        <div class="message">bug fix and update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40c7328</div>
-                                        <div class="message">bug fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d4b028</div>
-                                        <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69c0a04</div>
-                                        <div class="message">Merge pull request #53 from Zercom-Tech-Team/mssql-dev-sam
-
-Mssql dev sam</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4db7d8</div>
-                                        <div class="message">mod: footer style and table styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac6affa</div>
-                                        <div class="message">mod: styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f48401</div>
-                                        <div class="message">mod: styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d359ed</div>
-                                        <div class="message">mod: styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f323bfd</div>
-                                        <div class="message">mod: styles and layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0af890</div>
-                                        <div class="message">mod: footer adjust</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5059201</div>
-                                        <div class="message">mod: toggle password</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c22857</div>
-                                        <div class="message">gitignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#273d1d9</div>
-                                        <div class="message">gitignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac8b5b0</div>
-                                        <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev-sam</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8928409</div>
-                                        <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev-sam</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebb0d0f</div>
-                                        <div class="message">mod: responsive auth page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b7db01</div>
-                                        <div class="message">mod: UI mods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa48e49</div>
-                                        <div class="message">mod: tiga toastr styles</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dsoft02/cashmngr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4294114</div>
-                                        <div class="message">update</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3076,7 +3006,7 @@ Mssql dev sam</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="144.15 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="144.25333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3098,7 +3028,7 @@ Mssql dev sam</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2395 times</div>
+                                <div class="text">Repositories have been deployed 2396 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3559,7 +3489,7 @@ Mssql dev sam</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.26m out of 205m repositories</span>
+                                    <span class="gh">ranked 5.26m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3611,7 +3541,7 @@ Mssql dev sam</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 04:11:08 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 05:13:32 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
