@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    13.3m added, 1.38m removed
+                                    23m added, 1.38m removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    30 views in last two weeks
+                                    29 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -296,18 +296,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 381kb of code in 265 edited files across 107 commits over last 14 days</small>
+                <small>estimation from 380kb of code in 261 edited files across 103 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.11694323011994" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="269.11694323011994" y="0" width="70.09139451511898" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="339.2083377452389" y="0" width="38.70710493276256" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="377.91544267800145" y="0" width="33.20177282972061" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="411.11721550772205" y="0" width="26.869805926575808" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="437.9870214342979" y="0" width="22.0129785657021" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.2241347894219" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="269.2241347894219" y="0" width="70.35981098383158" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="339.5839457732535" y="0" width="38.855334604778854" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="378.4392803780323" y="0" width="32.4907374788936" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="410.93001785692593" y="0" width="26.972704413211698" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="437.90272227013764" y="0" width="22.097277729862366" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -319,9 +319,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>4.72k lines</div>
-                                <div>193 kB</div>
-                                <div>58.5%</div>
+                                <div>4.70k lines</div>
+                                <div>192 kB</div>
+                                <div>58.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -334,7 +334,7 @@
                             <small>
                                 <div>496 lines</div>
                                 <div>50.3 kB</div>
-                                <div>15.24%</div>
+                                <div>15.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +347,7 @@
                             <small>
                                 <div>745 lines</div>
                                 <div>27.8 kB</div>
-                                <div>8.41%</div>
+                                <div>8.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -358,9 +358,9 @@
                                 Blade
                             </div>
                             <small>
-                                <div>627 lines</div>
-                                <div>23.8 kB</div>
-                                <div>7.22%</div>
+                                <div>620 lines</div>
+                                <div>23.2 kB</div>
+                                <div>7.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -373,7 +373,7 @@
                             <small>
                                 <div>606 lines</div>
                                 <div>19.3 kB</div>
-                                <div>5.84%</div>
+                                <div>5.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,7 +386,7 @@
                             <small>
                                 <div>356 lines</div>
                                 <div>15.8 kB</div>
-                                <div>4.79%</div>
+                                <div>4.8%</div>
                             </small>
                         </div>
                     </section>
@@ -415,14 +415,6 @@
                     <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@Zercom-Tech-Team</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="76.69918811341226 329"/>
-                            <text x="15" y="15" dominant-baseline="central">592</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
                     </div>
                 </div>
             </section>
@@ -498,7 +490,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 39 commits)</small>
+                    <small class="h-details">(computed from last 37 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -619,8 +611,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -670,8 +662,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -681,32 +673,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 40.5371596569515%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 40.53252571140135%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 10.5578861588368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.592887038088627%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 5.830461931102068%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.849790733379603%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 5.001192232409331%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.8915809619954995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Twig</span>
-                                <div class="bar" style="width: 4.047406304944227%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.060824026752476%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.3158210550863783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.326813468778261%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -2940,7 +2932,7 @@ mod: UI Fix</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="319.71333333333337 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="319.81666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2962,7 +2954,7 @@ mod: UI Fix</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4094 times</div>
+                                <div class="text">Repositories have been deployed 4095 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3455,7 +3447,7 @@ mod: UI Fix</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.34m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.34m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3507,7 +3499,7 @@ mod: UI Fix</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2024, 21:10:26 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2024, 22:10:39 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
