@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    20.7m added, 234k removed
+                                    11.6m added, 1.37m removed
                                 </div>
                             </section>
                             <section>
@@ -296,18 +296,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.41mb of code in 600 edited files across 160 commits over last 14 days</small>
+                <small>estimation from 1.41mb of code in 602 edited files across 164 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.0196293769315" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="295.0196293769315" y="0" width="85.11071625334301" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="380.13034563027446" y="0" width="31.56427526370134" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="411.6946208939758" y="0" width="24.90878542318091" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="436.6034063171567" y="0" width="18.480292178532466" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.0836984956892" y="0" width="4.916301504310801" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.69404877836075" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="295.69404877836075" y="0" width="84.76279414543393" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="380.45684292379474" y="0" width="31.435244400517433" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.8920873243122" y="0" width="24.80696138137527" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="436.69904870568746" y="0" width="18.404747024025813" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.1037957297133" y="0" width="4.896204270286769" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -319,9 +319,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>17.7k lines</div>
-                                <div>703 kB</div>
-                                <div>64.13%</div>
+                                <div>17.8k lines</div>
+                                <div>707 kB</div>
+                                <div>64.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -334,7 +334,7 @@
                             <small>
                                 <div>4.90k lines</div>
                                 <div>202 kB</div>
-                                <div>18.5%</div>
+                                <div>18.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -347,7 +347,7 @@
                             <small>
                                 <div>1.22k lines</div>
                                 <div>75.2 kB</div>
-                                <div>6.86%</div>
+                                <div>6.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -360,7 +360,7 @@
                             <small>
                                 <div>1.85k lines</div>
                                 <div>59.3 kB</div>
-                                <div>5.41%</div>
+                                <div>5.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -373,7 +373,7 @@
                             <small>
                                 <div>926 lines</div>
                                 <div>44 kB</div>
-                                <div>4.02%</div>
+                                <div>4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,7 +386,7 @@
                             <small>
                                 <div>320 lines</div>
                                 <div>11.7 kB</div>
-                                <div>1.07%</div>
+                                <div>1.06%</div>
                             </small>
                         </div>
                     </section>
@@ -415,14 +415,6 @@
                     <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@Zercom-Tech-Team</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="64.14221133505086 329"/>
-                            <text x="15" y="15" dominant-baseline="central">553</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
                     </div>
                 </div>
             </section>
@@ -498,13 +490,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 51 commits)</small>
+                    <small class="h-details">(computed from last 53 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 55.0 characters per line of code written</li>
-                        <li>Mostly pushes code around 14:00</li>
+                        <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -515,7 +507,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -550,7 +542,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -560,41 +552,41 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">9</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 40.909090909090914px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
+                            <span class="value">11</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             16
                         </div>
@@ -610,7 +602,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -630,7 +622,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             23
                         </div>
                     </div>
@@ -655,8 +647,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">13</span>
-                                <div class="bar" style="height: 32.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">15</span>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -681,32 +673,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 39.97691624320387%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">50%</span>
+                                <div class="bar" style="width: 39.41977334698548%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 11.533008777228954%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.256118539431643%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.277147222913188%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Twig</span>
+                                <div class="bar" style="width: 3.7332388022617824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Twig</span>
-                                <div class="bar" style="width: 3.3752887246366514%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 3.6615175718597035%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.5041896165736826%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.884249023961411%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 0.6661881240894069%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6899924195786932%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2759,18 +2751,18 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#529dd81</div>
-                                        <div class="message">Merge pull request #117 from Zercom-Tech-Team/mssql-dev
+                                        <div class="sha">#072ebc1</div>
+                                        <div class="message">Merge pull request #118 from Zercom-Tech-Team/mssql-dev
 
-Mssql dev</div>
+update to courseforselfenrollment</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6a1dc5a</div>
+                                        <div class="sha">#6735c3f</div>
                                         <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4e2b4c5</div>
-                                        <div class="message">revert</div>
+                                        <div class="sha">#893b1c3</div>
+                                        <div class="message">update to cater for filter in coursesforselfenrollment</div>
                                     </div>
                                 </div>
                             </section>
@@ -2783,12 +2775,12 @@ Mssql dev</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#117 Mssql dev</span>
+                                        <span class="issue">#118 update to courseforselfenrollment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/tangerine-mssql</span></div>
-                                    <div>1 file changed <span class="code">++2 --11</span></div>
+                                    <div>1 file changed <span class="code">++41 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2800,12 +2792,12 @@ Mssql dev</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#117 Mssql dev</span>
+                                        <span class="issue">#118 update to courseforselfenrollment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/tangerine-mssql</span></div>
-                                    <div>1 file changed <span class="code">++2 --11</span></div>
+                                    <div>1 file changed <span class="code">++41 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2823,7 +2815,7 @@ Mssql dev</div>
                                 <div class="details">
                                     <div>on branch <span class="code">mssql-dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a1dc5a</div>
+                                        <div class="sha">#6735c3f</div>
                                         <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev</div>
                                     </div>
                                 </div>
@@ -2843,18 +2835,18 @@ Mssql dev</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8cb7190</div>
-                                        <div class="message">Merge pull request #116 from Zercom-Tech-Team/mssql-dev
+                                        <div class="sha">#529dd81</div>
+                                        <div class="message">Merge pull request #117 from Zercom-Tech-Team/mssql-dev
 
-update to course list api</div>
+Mssql dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f177bf7</div>
+                                        <div class="sha">#6a1dc5a</div>
                                         <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql into mssql-dev</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#274a538</div>
-                                        <div class="message">updates</div>
+                                        <div class="sha">#4e2b4c5</div>
+                                        <div class="message">revert</div>
                                     </div>
                                 </div>
                             </section>
@@ -2943,7 +2935,7 @@ update to course list api</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="328.90999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="329.0133333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2965,7 +2957,7 @@ update to course list api</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4183 times</div>
+                                <div class="text">Repositories have been deployed 4184 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3458,7 +3450,7 @@ update to course list api</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.34m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.34m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3510,7 +3502,7 @@ update to course list api</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2024, 18:09:25 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2024, 19:13:42 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
