@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3420" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3603" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.7m added, 1.40m removed
+                                    10.7m added, 272k removed
                                 </div>
                             </section>
                             <section>
@@ -296,17 +296,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 128kb of code in 192 edited files across 63 commits over last 12 days</small>
+                <small>estimation from 167kb of code in 219 edited files across 68 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.6852527795259" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="361.6852527795259" y="0" width="37.82286553387875" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="399.5081183134047" y="0" width="29.153597650513948" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="428.6617159639186" y="0" width="17.70908328088945" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="446.3707992448081" y="0" width="13.629200755191945" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.11060054075324" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="323.11060054075324" y="0" width="75.92023254928344" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="399.03083309003665" y="0" width="28.60876629558639" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="427.63959938562306" y="0" width="22.05143502710113" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.69103441272415" y="0" width="10.308965587275797" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -318,9 +318,22 @@
                                 Hack
                             </div>
                             <small>
-                                <div>2.10k lines</div>
-                                <div>93.7 kB</div>
-                                <div>78.63%</div>
+                                <div>2.45k lines</div>
+                                <div>110 kB</div>
+                                <div>70.24%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                PHP
+                            </div>
+                            <small>
+                                <div>567 lines</div>
+                                <div>26 kB</div>
+                                <div>16.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -333,7 +346,7 @@
                             <small>
                                 <div>195 lines</div>
                                 <div>9.80 kB</div>
-                                <div>8.22%</div>
+                                <div>6.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -346,20 +359,7 @@
                             <small>
                                 <div>252 lines</div>
                                 <div>7.55 kB</div>
-                                <div>6.34%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                PHP
-                            </div>
-                            <small>
-                                <div>139 lines</div>
-                                <div>4.59 kB</div>
-                                <div>3.85%</div>
+                                <div>4.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -372,7 +372,7 @@
                             <small>
                                 <div>202 lines</div>
                                 <div>3.53 kB</div>
-                                <div>2.96%</div>
+                                <div>2.24%</div>
                             </small>
                         </div>
                     </section>
@@ -476,14 +476,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 21 commits)</small>
+                    <small class="h-details">(computed from last 22 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 41.0 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -532,8 +532,8 @@
                             07
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             08
                         </div>
                         <div class="entry">
@@ -619,22 +619,22 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">7</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -643,7 +643,7 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">7</span>
+                                <span class="value">8</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
@@ -659,28 +659,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 58.26502615440816%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">73%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Twig</span>
-                                <div class="bar" style="width: 6.093005541780987%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.696445643134176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 53.00271787933574%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">66%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 2.852812473282087%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 12.453873876031178%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Twig</span>
+                                <div class="bar" style="width: 4.692951473282169%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 3.617293854240251%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.1955712387007518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.691071706516924%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -2729,6 +2729,72 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mysql-dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dfb4348</div>
+                                        <div class="message">update mysqli queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bdd9e5</div>
+                                        <div class="message">feat: db queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ad8982</div>
+                                        <div class="message">Merge branch 'mysql-dev' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui-mysql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#115ccd8</div>
+                                        <div class="message">Merge branch 'mysql-dev' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui-mysql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2beebea</div>
+                                        <div class="message">Merge branch 'mysql-dev' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui-mysql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d742f7c</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86330fa</div>
+                                        <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/wema-mssql</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#508e8e9</div>
+                                        <div class="message">fix: ensure non-empty reconmmendation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a0cc36</div>
+                                        <div class="message">Merge pull request #129 from Zercom-Tech-Team/mssql-dev
+
+Updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e0886b</div>
+                                        <div class="message">Merge branch 'mssql-dev' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57e148d</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/Zercom-Tech-Team/tangerine-mssql into base-ui</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd02ded</div>
+                                        <div class="message">minify main.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
                                     </div>
@@ -2885,26 +2951,6 @@ add audit log to mailer errors</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mssql-dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3cbd40e</div>
-                                        <div class="message">updates</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3021,7 +3067,7 @@ add audit log to mailer errors</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="383.0566666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="383.15999999999997 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3043,7 +3089,7 @@ add audit log to mailer errors</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4707 times</div>
+                                <div class="text">Repositories have been deployed 4708 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3536,7 +3582,7 @@ add audit log to mailer errors</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.37m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.37m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3588,7 +3634,7 @@ add audit log to mailer errors</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2024, 11:11:32 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Sept 2024, 12:10:11 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
