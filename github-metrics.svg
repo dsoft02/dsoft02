@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    21.4m added, 1.40m removed
+                                    12.2m added, 274k removed
                                 </div>
                             </section>
                             <section>
@@ -296,16 +296,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 65.3kb of code in 76 edited files across 23 commits over last 14 days</small>
+                <small>estimation from 69.7kb of code in 75 edited files across 23 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.73379923761115" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="264.73379923761115" y="0" width="184.58449809402796" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.31829733163914" y="0" width="8.752858958068616" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.07115628970774" y="0" width="1.928843710292249" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.75600033451343" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="260.75600033451343" y="0" width="188.57525158196972" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.33125191648315" y="0" width="8.976110166420428" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.3073620829036" y="0" width="1.6926379170964234" height="8" fill="#c1d026"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -317,9 +317,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>323 lines</div>
-                                <div>18.1 kB</div>
-                                <div>57.55%</div>
+                                <div>388 lines</div>
+                                <div>20.3 kB</div>
+                                <div>56.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -330,9 +330,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>205 lines</div>
-                                <div>12.6 kB</div>
-                                <div>40.13%</div>
+                                <div>233 lines</div>
+                                <div>14.7 kB</div>
+                                <div>40.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -343,9 +343,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20 lines</div>
-                                <div>599 bytes</div>
-                                <div>1.9%</div>
+                                <div>22 lines</div>
+                                <div>700 bytes</div>
+                                <div>1.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -358,7 +358,7 @@
                             <small>
                                 <div>2 lines</div>
                                 <div>132 bytes</div>
-                                <div>0.42%</div>
+                                <div>0.37%</div>
                             </small>
                         </div>
                     </section>
@@ -387,14 +387,6 @@
                     <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@Zercom-Tech-Team</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="27.480249637045834 329"/>
-                            <text x="15" y="15" dominant-baseline="central">116</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
                     </div>
                 </div>
             </section>
@@ -474,7 +466,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 04:00</li>
+                        <li>Mostly pushes code around 11:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
@@ -505,7 +497,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -530,7 +522,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             09
                         </div>
                         <div class="entry">
@@ -539,18 +531,18 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
+                            <span class="value">2</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -2688,6 +2680,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">mysql-dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#53653e3</div>
+                                        <div class="message">course reminder plugin update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">mysql-dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#bd8e824</div>
                                         <div class="message">course reminder plugin update</div>
                                     </div>
@@ -2830,26 +2842,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">mysql-dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#88ab0df</div>
-                                        <div class="message">update to mysqli queries</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2966,7 +2958,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="428.31666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="428.41999999999996 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2988,7 +2980,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5145 times</div>
+                                <div class="text">Repositories have been deployed 5146 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3112,7 +3104,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.188227241615345 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.273100616016439 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3533,7 +3525,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 12:10:30 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 13:20:54 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
