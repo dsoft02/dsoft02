@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    18.2m added, 1.17m removed
+                                    19.6m added, 1.18m removed
                                 </div>
                             </section>
                             <section>
@@ -296,19 +296,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.28mb of code in 379 edited files across 30 commits over last 13 days</small>
+                <small>estimation from 1.28mb of code in 381 edited files across 32 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.72502852481034" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="222.72502852481034" y="0" width="95.13975713986105" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="317.8647856646714" y="0" width="40.855609622818314" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="358.7203952874897" y="0" width="39.48195481054331" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="398.2023500980329" y="0" width="31.148861989944642" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="429.3512120879776" y="0" width="27.3624603875526" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.7136724755302" y="0" width="3.286327524469766" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.56058849429058" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="222.56058849429058" y="0" width="95.16591778230249" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="317.72650627659306" y="0" width="40.82544553332295" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="358.55195180991603" y="0" width="39.45280490360637" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="398.0047567135224" y="0" width="31.369083669321892" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="429.37384038284426" y="0" width="27.34225841990206" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.71609880274633" y="0" width="3.283901197253642" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -322,7 +322,7 @@
                             <small>
                                 <div>1.78k lines</div>
                                 <div>251 kB</div>
-                                <div>48.42%</div>
+                                <div>48.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -333,9 +333,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>4.06k lines</div>
+                                <div>4.07k lines</div>
                                 <div>107 kB</div>
-                                <div>20.68%</div>
+                                <div>20.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -372,9 +372,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>985 lines</div>
-                                <div>35.1 kB</div>
-                                <div>6.77%</div>
+                                <div>988 lines</div>
+                                <div>35.4 kB</div>
+                                <div>6.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -387,7 +387,7 @@
                             <small>
                                 <div>39 lines</div>
                                 <div>30.9 kB</div>
-                                <div>5.95%</div>
+                                <div>5.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -496,7 +496,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 11 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -560,8 +560,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -641,8 +641,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -2704,6 +2704,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">new-ui</span></div>
                                     <div class="commit">
+                                        <div class="sha">#dd750e3</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">new-ui</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5b58fd9</div>
                                         <div class="message">new ui query</div>
                                     </div>
@@ -2762,26 +2782,6 @@
                                     <div class="commit">
                                         <div class="sha">#02623f7</div>
                                         <div class="message">minor query fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev-eben</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#704d6a6</div>
-                                        <div class="message">Merge branch 'master' of github.com:Zercom-Tech-Team/tangerine-mssql into dev-eben</div>
                                     </div>
                                 </div>
                             </section>
@@ -2903,7 +2903,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2025, 19:17:31 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2025, 20:10:27 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
