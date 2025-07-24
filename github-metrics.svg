@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2529" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2446" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    20.1m added, 1.42m removed
+                                    14.9m added, 1.18m removed
                                 </div>
                             </section>
                             <section>
@@ -296,19 +296,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.31mb of code in 772 edited files across 94 commits over last 14 days</small>
+                <small>estimation from 1.31mb of code in 784 edited files across 110 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.00983990547" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="214.00983990547" y="0" width="126.93760391504847" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="340.94744382051846" y="0" width="86.96160240926059" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="427.90904622977905" y="0" width="10.796394474595058" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="438.70544070437415" y="0" width="10.368290617059321" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="449.07373132143346" y="0" width="10.178289466804697" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.25202078823816" y="0" width="0.7479792117618763" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.74770495289485" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="209.74770495289485" y="0" width="132.31200854733703" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="342.05971350023185" y="0" width="86.4884434161677" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="428.5481569163996" y="0" width="10.581377771286995" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="439.1295346876866" y="0" width="10.161799860106534" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="449.2913345477931" y="0" width="9.97558269727925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.26691724507236" y="0" width="0.7330827549276576" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -322,7 +322,7 @@
                             <small>
                                 <div>6.34k lines</div>
                                 <div>177 kB</div>
-                                <div>46.52%</div>
+                                <div>45.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -333,9 +333,9 @@
                                 PHP
                             </div>
                             <small>
-                                <div>3.42k lines</div>
-                                <div>105 kB</div>
-                                <div>27.6%</div>
+                                <div>3.74k lines</div>
+                                <div>112 kB</div>
+                                <div>28.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -346,9 +346,9 @@
                                 Hack
                             </div>
                             <small>
-                                <div>1.42k lines</div>
-                                <div>72.3 kB</div>
-                                <div>18.9%</div>
+                                <div>1.45k lines</div>
+                                <div>73.3 kB</div>
+                                <div>18.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -361,7 +361,7 @@
                             <small>
                                 <div>452 lines</div>
                                 <div>8.98 kB</div>
-                                <div>2.35%</div>
+                                <div>2.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -374,7 +374,7 @@
                             <small>
                                 <div>217 lines</div>
                                 <div>8.62 kB</div>
-                                <div>2.25%</div>
+                                <div>2.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -387,7 +387,7 @@
                             <small>
                                 <div>236 lines</div>
                                 <div>8.46 kB</div>
-                                <div>2.21%</div>
+                                <div>2.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -492,7 +492,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 30 commits)</small>
+                    <small class="h-details">(computed from last 37 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -508,8 +508,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -654,8 +654,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -675,37 +675,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 10.905536720740374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.840989130227864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 6.4685002397545155%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 6.838659077497097%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 4.431398802912597%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.470229007633588%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.5501638450190042%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5469075403095315%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Twig</span>
-                                <div class="bar" style="width: 0.528348482039859%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5252212979002875%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.518666382740126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5155965049209039%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.038115606104012094%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03789000780491519%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2756,31 +2756,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">lms-prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e20e9d1</div>
-                                        <div class="message">Merge pull request #336 from Zercom-Tech-Team/new-ui-qa
+                                        <div class="sha">#4aee75e</div>
+                                        <div class="message">Merge pull request #340 from Zercom-Tech-Team/new-ui-qa
 
-disable landing page for Humanmanager instance</div>
+update back button on 404 page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b089276</div>
-                                        <div class="message">Merge pull request #335 from Zercom-Tech-Team/new-ui
+                                        <div class="sha">#9af2bd5</div>
+                                        <div class="message">Merge pull request #339 from Zercom-Tech-Team/new-ui
 
-disable landing page for Humanmanager instance</div>
+update back button on 404 page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2699220</div>
-                                        <div class="message">Merge branch 'lms-prod' of github.com:Zercom-Tech-Team/tangerine-mssql into new-ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f24d624</div>
-                                        <div class="message">disable landing page for Humanmanager instance</div>
+                                        <div class="sha">#868111a</div>
+                                        <div class="message">update back button on 404 page</div>
                                     </div>
                                 </div>
                             </section>
@@ -2793,12 +2789,12 @@ disable landing page for Humanmanager instance</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#336 disable landing page for Humanmanager instance</span>
+                                        <span class="issue">#340 update back button on 404 page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/tangerine-mssql</span></div>
-                                    <div>1 file changed <span class="code">++3 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2810,12 +2806,12 @@ disable landing page for Humanmanager instance</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#336 disable landing page for Humanmanager instance</span>
+                                        <span class="issue">#340 update back button on 404 page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/tangerine-mssql</span></div>
-                                    <div>1 file changed <span class="code">++3 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2826,43 +2822,21 @@ disable landing page for Humanmanager instance</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">Zercom-Tech-Team/tangerine-mssql</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">new-ui-qa</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b089276</div>
-                                        <div class="message">Merge pull request #335 from Zercom-Tech-Team/new-ui
+                                        <div class="sha">#9af2bd5</div>
+                                        <div class="message">Merge pull request #339 from Zercom-Tech-Team/new-ui
 
-disable landing page for Humanmanager instance</div>
+update back button on 404 page</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2699220</div>
-                                        <div class="message">Merge branch 'lms-prod' of github.com:Zercom-Tech-Team/tangerine-mssql into new-ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f24d624</div>
-                                        <div class="message">disable landing page for Humanmanager instance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b6f3ce</div>
-                                        <div class="message">Merge pull request #334 from Zercom-Tech-Team/new-ui-qa
-
-update and fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2687c9d</div>
-                                        <div class="message">Merge pull request #331 from Zercom-Tech-Team/new-ui-qa
-
-bugfix and update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#637301b</div>
-                                        <div class="message">Merge pull request #329 from Zercom-Tech-Team/new-ui-qa
-
-New UI qa</div>
+                                        <div class="sha">#868111a</div>
+                                        <div class="message">update back button on 404 page</div>
                                     </div>
                                 </div>
                             </section>
@@ -2875,12 +2849,12 @@ New UI qa</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#335 disable landing page for Humanmanager instance</span>
+                                        <span class="issue">#339 update back button on 404 page</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zercom-Tech-Team/tangerine-mssql</span></div>
-                                    <div>1 file changed <span class="code">++3 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3001,7 +2975,7 @@ New UI qa</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2025, 05:34:24 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 06:20:25 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
